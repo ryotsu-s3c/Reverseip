@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # - RevIP
 #   | Date: 10/03/2018
-#   | Author: P4kL0nc4t
+#   | Author: insane-dotin
 #   | Description: simple reverse IP lookup tool that combines multiple API to achieve effective result.
 
 import requests
@@ -29,7 +29,7 @@ def main():
    ___           _______ 
   / _ \\___ _  __/  _/ _ \\  | RevIP: Reverse IP Lookup Tool
  / , _/ -_) |/ // // ___/  | [ v1.0 beta ]
-/_/|_|\\__/|___/___/_/      | 
+/_/|_|\\__/|___/___/_/      | https://github.com/insane-dotin
 usage: {} <ip/domain> <mode:1(verbose/unverified);2(raw/unverified);3(verbose/verified);(raw/verified)>
 example: {} example.com 1
        
