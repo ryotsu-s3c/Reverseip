@@ -8,9 +8,9 @@ You must have Python to install and run this tool.
 
 Steps to Install
 
-    gitclone or download this tool.
+gitclone or download this tool.
 
-    To gitclone
+To gitclone
 
         sudo git clone https://github.com/insane-dotin/Reverseip.git
 
