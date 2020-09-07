@@ -20,6 +20,6 @@ For Linux & Mac
 
     sudo install.sh
     
-    If install.sh do not worked install the required libraries manually
+If install.sh do not worked install the required libraries manually
 
     sudo python reverseip.py
